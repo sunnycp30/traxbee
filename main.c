@@ -3,8 +3,7 @@
 
 void main()
 {
-
-
+ int i;
  while(1) 
  {
 
